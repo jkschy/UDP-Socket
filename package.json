@@ -1,0 +1,17 @@
+{
+  "name": "connectr",
+  "version": "1.0.0",
+  "description": "A Low-Latency Server/Client Connection service",
+  "main": "index.js",
+  "scripts": {
+    "openTestServer": "node dest/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.3"
+  }
+}
